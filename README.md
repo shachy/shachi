@@ -1,17 +1,17 @@
 ```py
-from shachi import info
+from stats import info
 
 def print_info():
-  code_language = info['language']
+  code_language = info['code_language']
   status = info['status']
   discord = info['discord']
-  speedrun = info[speedrun]
-  special = info['special']
+  games = info['games']
+  welcome = info['welcome']
   
   print(code_language)
   print(status)
   print(discord)
-  print(speedrun)
+  print(games)
   print(special)
   
   
@@ -22,6 +22,6 @@ print_info()
 >>> Python
 >>> Learning
 >>> Shachar#5907
->>> Slime Rancher
+>>> Counter Strike: Source
 >>> Welcome To My Github
 ```
