@@ -22,6 +22,6 @@ print_info()
 >>> Python
 >>> Learning
 >>> Shachar#5907
->>> Counter Strike: Source
+>>> Counter Strike : Source
 >>> Welcome To My Github
 ```
