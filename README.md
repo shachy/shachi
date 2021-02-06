@@ -12,7 +12,7 @@ def print_info():
   print(status)
   print(discord)
   print(games)
-  print(special)
+  print(welcome)
   
   
 print_info()
