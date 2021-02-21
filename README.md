@@ -25,3 +25,5 @@ print_info()
 >>> Counter Strike: Source
 >>> Welcome To My Github
 ```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shachy)](https://github.com/anuraghazra/github-readme-stats)
